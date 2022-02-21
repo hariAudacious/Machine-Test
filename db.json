@@ -1,0 +1,121 @@
+{
+  "users": [
+    {
+      "firstName": "hariom",
+      "lastName": "sharma",
+      "email": "hari001204@gmail.com",
+      "password": "sharmahariom",
+      "id": 1
+    }
+  ],
+  "bikes": [
+    {
+      "bikeName": "PULSAR",
+      "companyName": "Bajaj",
+      "colors": "Pewter Gray, Wild Red, Satin Blue, Graphite Black",
+      "mileage": "50km/l",
+      "marketPrice": "1.45 lakh",
+      "weight": "144-150kg",
+      "launchingYear": "1999",
+      "about": "The Bajaj Pulsar is a range of motorcycles manufactured by Bajaj Auto in India.",
+      "path": "https://cdn.autoportal.com/bp-v3/img/models/88/9/bajaj-pulsar-1464785923.jpg",
+      "id": 1
+    },
+    {
+      "bikeName": "Apache",
+      "companyName": "TVS",
+      "colors": "Glass Black, white,Blue,Red",
+      "mileage": "35-50km/l",
+      "marketPrice": "1.09 lakh",
+      "weight": "137-174kg",
+      "launchingYear": "2006",
+      "about": "The TVS Apache is a brand of commuter bikes made by TVS Motors in India.",
+      "path": "https://cdn.autoportal.com/bp-v3/img/models/4d/1/tvs-apache-1542888363.jpeg",
+      "id": 2
+    },
+    {
+      "bikeName": "KTM",
+      "companyName": "Kraftfahrzeug Trunkenpolz Mattighofen",
+      "colors": "Electronic Orange, Dark Galvono",
+      "mileage": "35km/l",
+      "marketPrice": "1.47lakh",
+      "weight": "139-154kg",
+      "launchingYear": "2012",
+      "about": "KTM AG is an Austrian bicycle manufacturer Bajaj Auto International Holdings BV",
+      "path": "https://cdn.autoportal.com/bp-v3/img/models/b8/b/img-5b85019b6c054.jpg",
+      "id": 3
+    },
+    {
+      "bikeName": "JAWA",
+      "companyName": "Classic Legends Private Limited",
+      "colors": "Black, Grey, Maroon",
+      "mileage": "34km/l",
+      "marketPrice": "1.69-1.91 lakh",
+      "weight": "170kg",
+      "launchingYear": "2018",
+      "about": "JAWA is a motorcycle and moped manufacturer founded in Prague.",
+      "path": "https://cdn.autoportal.com/bp-v3/img/models/bc/1/main.jpg",
+      "id": 4
+    },
+    {
+      "bikeName": "R15",
+      "companyName": "Yamaha",
+      "colors": "Racing Blue, Thunder Grey, Metallic Red",
+      "mileage": "40km/l",
+      "marketPrice": "1.58 lakh",
+      "weight": "142kg",
+      "launchingYear": "2008",
+      "about": "The Yamaha YZF R15 V3 is powered by a 155 cc air-cooled engine.",
+      "path": "https://cdn.autoportal.com/bp-v3/img/models/3f/d/13.jpg",
+      "id": 5
+    },
+    {
+      "bikeName": "HORNET",
+      "companyName": "Honda",
+      "colors": "Blue Metallic, Red Metallic",
+      "mileage": "45km/l",
+      "marketPrice": "1.32 lakh",
+      "weight": "142kg",
+      "launchingYear": "2021",
+      "about": "Honda CB Hornet 160R last recorded price begun from ₹ 82,537 in India.",
+      "path": "https://cdn.autoportal.com/bp-v3/img/models/3b/c/honda-cb-hornet-160r-special-edition_827x510_51471327860%20(1).jpg",
+      "id": 6
+    },
+    {
+      "bikeName": "CBR",
+      "companyName": "Honda",
+      "colors": "Yellow,Green,Orange",
+      "mileage": "13-32km/l",
+      "marketPrice": "1.63 lakh",
+      "weight": "167-211kg",
+      "launchingYear": "2012",
+      "about": "The Honda CBR is a brand of bikes made by Honda two wheeler manufacturer in India.",
+      "path": "https://cdn.autoportal.com/bp-v3/img/models/3a/a/honda-cbr-250r-1521550264.png",
+      "id": 7
+    },
+    {
+      "bikeName": "DOMINAR",
+      "companyName": "Bajaj",
+      "colors": "Blue ,Green,Gray",
+      "mileage": "27 km/l",
+      "marketPrice": "2.12 Lakh ",
+      "weight": "184-187 kg",
+      "launchingYear": "2016",
+      "about": "Bajaj Dominar is motorcycle which suits need of every aspirant who seeks for style aspects.",
+      "path": "https://cdn.autoportal.com/bp-v3/img/models/76/a/13.png",
+      "id": 8
+    },
+    {
+      "bikeName": "BULLET",
+      "companyName": "Royal Enfield",
+      "colors": "Royle Blue, Onyx Black, Silver, Black, Forest Green",
+      "mileage": "35km/l",
+      "marketPrice": "1.87-2.18 lakh",
+      "weight": "192-195kg",
+      "launchingYear": "1932",
+      "about": "The Royal Enfield Bullet was originally four-stroke motorcycle  by Royal Enfield",
+      "path": "https://cdn.autoportal.com/bp-v3/img/models/59/1/royal-enfield-classic-500-1464785917.png",
+      "id": 9
+    }
+  ]
+}
