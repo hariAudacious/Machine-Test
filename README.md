@@ -1,70 +1,47 @@
-# Getting Started with Create React App
+This Project is based on bikes information like anyone have to know about any bikes Mileage, Weight, Lunching-Year, Available-Colors, Company-name, Market-Price So this Application is will help.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Drop this :point_down:command for Starting
 
-## Available Scripts
+"yarn start"
 
-In the project directory, you can run:
 
-### `yarn start`
+After inserting this command browser will be shown.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+then again come to code editor and Drop This Command:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+"json-server --watch db.json --port 3333"
 
-### `yarn test`
+and go to the browser and open new tab and search "http://localhost:3333/users"
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+if any user is visiting first time so it is necessary to fill all information that is Shown on the Screen like full name, email and password.
 
-### `yarn build`
+there are some validations in the signup
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- First-Name : *required
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Last-Name : *required
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Email : *required & fill valid email id.
 
-### `yarn eject`
+- Password : *required & should be more than 8 characters and less than 20 characters.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- Confirm-Password: *required & password and confirm password should be same.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+After filling in all the inputs User will jump to the dashboard and there are lots of cards will be shown on the screen.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Users can see all the information of any bike after clicking the button  "More info".
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+1. There are 2  ways to go dashboard.
 
-## Learn More
+2. After filling out the signup form which is mentioned upside :point_up:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+By URL bar "dashboard/list" (user should be signed or logged in)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+before leaving this web don't forget to log out for logging out user just have to click the Logout button which is shown top right side of the screen.
 
-### Code Splitting
+if any user vising a second time so he/she will have to log in. user will have to fill in all the information as he filled in the first time (signup page)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
