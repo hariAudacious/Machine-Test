@@ -2,14 +2,14 @@ This Project is based on bikes information like anyone have to know about any bi
 
 Drop this :point_down:command for Starting
 
-"yarn start"
+- **_yarn start_**
 
 
 After inserting this command browser will be shown.
 
 then again come to code editor and Drop This Command:
 
-"json-server --watch db.json --port 3333"
+- **_json-server --watch db.json --port_ 3333**
 
 and go to the browser and open new tab and search "http://localhost:3333/users"
 
@@ -17,15 +17,15 @@ if any user is visiting first time so it is necessary to fill all information th
 
 there are some validations in the signup
 
-- First-Name : *required
+- _**First-Name : required**_
 
-- Last-Name : *required
+- _**Last-Name : required**_
 
-- Email : *required & fill valid email id.
+- _**Email : required & fill valid email id**_
 
-- Password : *required & should be more than 8 characters and less than 20 characters.
+- _**Password : required & should be more than 8 characters and less than 20 characters**_
 
-- Confirm-Password: *required & password and confirm password should be same.
+- _**Confirm-Password: required & password and confirm password should be same**_
 
 After filling in all the inputs User will jump to the dashboard and there are lots of cards will be shown on the screen.
 
@@ -35,7 +35,7 @@ Users can see all the information of any bike after clicking the button  "More i
 
 2. After filling out the signup form which is mentioned upside :point_up:
 
-By URL bar "dashboard/list" (user should be signed or logged in)
+By URL bar "http://localhost:3333/dashboard/list" (user should be signed or logged in)
 
 before leaving this web don't forget to log out for logging out user just have to click the Logout button which is shown top right side of the screen.
 
